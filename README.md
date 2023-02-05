@@ -1,6 +1,3 @@
 ## Email_Web_Scraping
--	Scraping staff directory emails through the Texas State Website by using BeautifulSoup
--	Parse the content into beautiful soup object 
--	Create a for loop and parsing the emails into text while appending it to dictionary
--	We are going to retrieve Names, Titles, emails through a for Loop
--	Joining all the emails within a DataFrame and storing them into a CSV 
+
+Scraping up email is a process by which a person or organization can gather email addresses and associated information from the internet. It is most commonly used by universities to collect contact information for faculty and staff, as well as students. It involves searching through websites, social media accounts, and other online sources to compile a comprehensive list of email addresses and the individuals associated with them. The role associated with each person’s email address is usually identified by their job title, job description, or other information that can be gleaned from the website or social media account. Scraping up emails can be a useful tool for universities to keep an up-to-date database of contact information for their staff, faculty, and students.
